@@ -4,7 +4,7 @@ End-to-end, profit-optimized customer churn prediction app for a credit card por
 
 Instead of just maximizing accuracy or AUC, this project is designed the way a business would actually use it: to decide which customers to proactively retain based on Lifetime Value (LTV) and retention offer cost, and to maximize total profit from those decisions.
 
----
+
 
 ## Why This Project Is Different
 
